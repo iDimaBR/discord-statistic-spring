@@ -183,6 +183,7 @@ atlassian-ide-plugin.xml
 .vscode/
 
 target
+*.properties
 *.iml
 *.ipr
 *.iws
